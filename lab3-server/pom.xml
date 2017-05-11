@@ -6,7 +6,7 @@
 	<groupId>com.lab3</groupId>
 	<artifactId>lab3-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 
 	<name>lab1</name>
 	<description>Demo project for Spring Boot</description>
